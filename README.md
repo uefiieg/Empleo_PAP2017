@@ -16,4 +16,5 @@ En la estrategia participan 34 dependencias y entidades del ejecutivo estatal y 
 Los alumnos de la carrera de *Licenciatura en Ingeniería Financiera* del Instituto Tecnológico y de Estudios Superiores de Occidente, ITESO, han realizado a través de la modalidad de Estancias Académicas, una línea de investigación en coordinación con el Dr. Pablo Dávalos de la Peña, para el Instituto de Información Estadística y Geografía, IIEG durante el periodo comprendido del 19 de agosto al 1 de diciembre de 2017
 
 **Alumno:** Ing. Raul Romero Barragan
+
 **Proyecto:** Proyección Empleo Jalisco por principales ciudades
