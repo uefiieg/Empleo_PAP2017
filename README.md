@@ -7,9 +7,15 @@ El objetivo de este repositorio es dar a conocer un modelo de Machine Learning (
 
 # MIDE
 
-El [Monitoreo de Indicadores del Desarrollo, MIDE](https://seplan.app.jalisco.gob.mx/mide/panelCiudadano/inicio) Jalisco, es una estrategia del Gobierno del Estado que coordina la definición y el seguimiento dinámico y periódico de los indicadores y metas vinculadas al Plan Estatal de Desarrollo (PED) vigente.
+El [Monitoreo de Indicadores del Desarrollo, MIDE Jalisco](https://seplan.app.jalisco.gob.mx/mide/panelCiudadano/inicio) Jalisco, es una estrategia del Gobierno del Estado que coordina la definición y el seguimiento dinámico y periódico de los indicadores y metas vinculadas al Plan Estatal de Desarrollo (PED) vigente.
 
-En la estrategia participan 34 dependencias y entidades del ejecutivo estatal y cuenta con recomendaciones del Consejo Ciudadano MIDE Jalisco
+En la estrategia participan 34 dependencias y entidades del ejecutivo estatal y cuenta con recomendaciones del Consejo Ciudadano MIDE Jalisco.
+
+El Instituto de Información Estadística y Geográfica del Estado de Jalisco,  tiene asignados 36 indicadores que debe alimentar en la plataforma MIDE, de los cuáles la Unidad Económico Financiera se encarga de actualizar 28 de ellos, así como de trabajar con la meta anual de y con las proyecciones mensuales de cada uno de ellos.
+
+De los 28 indicadores, 9 se actualizan de manera mensual, 11 trimestral, 5 anual y 3 de forma bienal.
+Asimismo, se apoya a la Secretaría de Desarrollo Económico (SEDECO) con la actualización de 1 indicador de actualización mensual.
+
 
 # ITESO
 
